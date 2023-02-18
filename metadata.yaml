@@ -1,0 +1,26 @@
+_repo: Practical-recitations-b-Selections-for-literary-exercises-appropriate-for-reception-days-holi__70040
+_version: 0.0.1
+creator:
+  author:
+    agent_name: LeRow, Caroline B.
+    gutenberg_agent_id: '55559'
+    url: http://www.gutenberg.org/2009/agents/55559
+description: ''
+gutenberg_issued: '2023-02-14'
+identifiers:
+  gutenberg: '70040'
+language: en
+pgterms:marc905: 20200804135527lerow
+pgterms:marc906: '1886'
+pgterms:marc907: US
+production_note: Juliet Sutherland and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aUnited States :$bClark & Maynard, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Practical recitations : $b Selections for literary exercises appropriate for
+  reception-days, holidays, poets'' birthdays, etc.'
+url: http://www.gutenberg.org/ebooks/70040
